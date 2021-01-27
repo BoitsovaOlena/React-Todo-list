@@ -1,0 +1,25 @@
+.wrapp {
+    margin: 40px auto;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+    
+}
+.wrapp button{
+    width: fit-content;
+}
+
+.wrapp p {
+
+    font-size: 25px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+.wrapp a:hover{
+    color:#fff;
+}
+
+

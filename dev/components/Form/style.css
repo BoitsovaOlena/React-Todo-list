@@ -1,0 +1,25 @@
+
+.form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 40px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+.form input {
+    display: inline-block;
+    width: 75%;
+    font-size: 25px;
+    border: none;
+    background-color: #fff;
+    color: #a479d8;;
+}
+input::placeholder {
+    color: #dbcfe9;
+    
+}
+
+.form input:focus {
+    outline: none;
+}

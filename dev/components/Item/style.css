@@ -1,0 +1,12 @@
+.item {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 900;
+    border-bottom: 2px solid #a479d8;
+    word-wrap: break-word;
+
+}
+.item p {
+    margin: 0px;
+}

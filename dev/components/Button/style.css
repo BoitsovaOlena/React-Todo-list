@@ -1,0 +1,28 @@
+button svg {
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+}
+.button {
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 15px;
+    background-color: #a479d8;
+    color: #fff;
+}
+.button:hover {
+    background-color: #8557bd;
+}
+.button_small {
+    padding: 5px;
+    font-size: 10px;
+    text-transform: uppercase;
+    border: none;
+    background-color: #fff;
+    color: #dbcfe9;
+}
+.button_small:hover {
+    color:#8557bd;
+}

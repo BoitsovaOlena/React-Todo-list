@@ -1,0 +1,147 @@
+._3a4Bv {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+button svg {
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+}
+._1_8mq {
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 15px;
+    background-color: #a479d8;
+    color: #fff;
+}
+._1_8mq:hover {
+    background-color: #8557bd;
+}
+._3PMEF {
+    padding: 5px;
+    font-size: 10px;
+    text-transform: uppercase;
+    border: none;
+    background-color: #fff;
+    color: #dbcfe9;
+}
+._3PMEF:hover {
+    color:#8557bd;
+}
+
+
+._3CPcH {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 40px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+._3CPcH input {
+    display: inline-block;
+    width: 75%;
+    font-size: 25px;
+    border: none;
+    background-color: #fff;
+    color: #a479d8;;
+}
+input::placeholder {
+    color: #dbcfe9;
+    
+}
+
+._3CPcH input:focus {
+    outline: none;
+}
+
+._1NPcN {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 900;
+    border-bottom: 2px solid #a479d8;
+    word-wrap: break-word;
+
+}
+._1NPcN p {
+    margin: 0px;
+}
+
+._2GKon
+{
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    list-style-type: none;
+}
+
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+
+    margin: 0;
+
+    color: #a479d8;
+    background-color: #e3e9ff;
+}
+._1MOcS {
+    margin: 40px auto;
+    width: 600px;
+}
+
+._30Ind {
+    margin: 40px auto;
+    width: 600px;
+}
+._30Ind p {
+    font-size: 25px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+._34XaA {
+    margin: 40px auto;
+    width: 600px;
+}
+._34XaA p {
+    font-size: 25px;
+}
+
+
+
+._2UR6t {
+    display: block;
+    width: 50%;
+    min-width: 600px;
+    margin: 0 auto;
+}
+.jvnm0 {
+    text-align: center;
+}
+.jvnm0 li {
+    display: inline-block;
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+a:hover {
+    color: #8557bd;
+}
